@@ -17,7 +17,7 @@ PORT = 65432
 # GPIO setup
 GPIO.setmode(GPIO.BOARD)
 SENSOR_PINS = {
-    'central': {'trigger': 16, 'echo': 18}, #these PINs are physical PINs(od left side and even right side if you hold it from the USB side )
+    'central': {'trigger': 16, 'echo': 18}, #these PINs are physical PINs(odd on the left side and even the right side if you hold it from the USB side )
     'right': {'trigger': 33, 'echo': 35},
     'left': {'trigger': 38, 'echo': 40}
 }
