@@ -114,9 +114,10 @@ The project is divided into three main files:
 4. **Server not responding**:
     - Ensure that `server/main.py` is running.
     - Check the network connection between the Raspberry Pi and the server.
+
 ## Contributors
-- Hemant Narula
-- Anant Gyan Singhal
+- [Hemant Narula](https://github.com/Hemantcoder2005)
+- [Anant Gyan Singhal](https://github.com/c0smicsage)
 
 ## Contributing
 
