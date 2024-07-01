@@ -6,7 +6,7 @@ import os
 from random import randint
 
 # Constants
-OBSTACLE_DISTANCE = 15  # cm
+OBSTACLE_DISTANCE = 15  # cm(by changing this, you can control when to stop or what is the threshold radius of the robot(modify this according to your robot's speed))
 DISTANCE_SLEEP = 0.05
 MOTOR_CONTROL_SLEEP = 0.1
 TURN_DURATION = 0.5
