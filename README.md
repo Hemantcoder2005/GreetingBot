@@ -123,6 +123,13 @@ The project is divided into three main files:
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
+## Skills required
+1. Python(+circuit python)
+2. CV
+3. ML
+4. 3d Modeling
+
+
 
 ## Acknowledgments
 
